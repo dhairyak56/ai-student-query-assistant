@@ -1,0 +1,15 @@
+{
+    "api": {
+        "url": "http://127.0.0.1:5000",
+        "timeout": 30
+    },
+    "ui": {
+        "theme": "dark",
+        "font_size": 20,
+        "window_size": "600x700"
+    },
+    "database": {
+        "enabled": true,
+        "path": "qa_database.db"
+    }
+}
