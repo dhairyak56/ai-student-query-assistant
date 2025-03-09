@@ -18,7 +18,7 @@ A desktop application that uses Google's Gemini API to answer student questions 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/ai-student-query-assistant.git
+   git clone https://github.com/dhairyak56/ai-student-query-assistant.git
    cd ai-student-query-assistant
    ```
 
